@@ -4,8 +4,8 @@
 
 - NAME: @cympfh
     - [Github (cympfh)](https://github.com/cympfh?tab=repositories)
-    - [twitter (@cympfh)](https://twitter.com/cympfh)
     - [blog](http://cympfh.cc/)
+    - [mail](cympfh@gmail.com)
 
 ![](img/icon-mosaic.png)
 
